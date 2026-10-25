@@ -1,4 +1,5 @@
 // first code in do while loop 
+// in simpler terms we can say do while loop is a type of while loop which excecute atleast once 
 #include <stdio.h> 
 int main()
 {
