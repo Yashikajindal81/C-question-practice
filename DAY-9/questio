@@ -1,0 +1,6 @@
+#include <stdio.h> 
+int main()
+{
+    int numbers [5];
+    printf(1); 
+}
