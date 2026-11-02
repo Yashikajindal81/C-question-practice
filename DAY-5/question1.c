@@ -3,6 +3,7 @@
 #include <stdio.h>
 int main()\
 {
+    printf("hello this is for commiting only");
     int i;
     i = 0; 
     while  (i<6) {
